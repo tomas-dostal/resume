@@ -32,25 +32,10 @@
   },
   "work": [
     {
-      "organization": "Paysure Solutions Ltd",
-      "position": "Software developer (contractor)",
-      "website": "https://paysure.solutions/",
-      "startDate": "2021-11-01",
-      "summary": "A fin-tech startup (one of few which avoid Haskell), which aims to make insurances and many other 'old-school businesses even easier. Paysure brings an innovative way how to limit payments by card by comprehensive criteria. All of that is done in language I prefer - Python",
-      "highlights": [
-        "Strengthened my experiences with Python on the backend",
-        "Deep dive into Docker",
-        "Team of cool 'travel' people I enjoy working with",
-        "Finally a place where I can work full-remote. And go to the office when I want ",
-        "Learned a bit o AWS here"
-      ]
-    },
-    {
-      "organization": "Paysure Solutions Ltd",
+      "organization": "Paysure Technology s.r.o / Paysure Solutions Ltd",
       "position": "Software developer",
       "website": "https://paysure.solutions/",
       "startDate": "2021-09-01",
-      "endDate": "2021-10-31",
       "summary": "A fin-tech startup (one of few which avoid Haskell), which aims to make insurances and many other 'old-school businesses even easier. Paysure brings an innovative way how to limit payments by card by comprehensive criteria. All of that is done in language I prefer - Python",
       "highlights": [
         "Strengthened my experiences with Python on the backend",
@@ -167,7 +152,6 @@
       "keywords": [
         "Python",
         "Java (basics)",
-        "C++ (basics)"
       ]
     },
     {
