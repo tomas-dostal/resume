@@ -1,221 +1,229 @@
 {
-  "meta": {
-    "theme": "elegant"
-  },
-  "basics": {
-    "name": "Tomáš Dostál",
-    "label": "Software developer",
-    "picture": "img.webp",
-    "email": "t@dostál.eu",
-    "phone": "+420 605 066 470",
-    "website": "https://dostál.eu",
-    "summary": "Proficient and creative computer science student from the Czech Republic, yearning to do something great and meet amazing people. Currently in my second year at [FIT CTU, Prague](https://fit.cvut.cz/cs) in pursuit of getting a bachelor's degree in Informatics.  I believe that computers should make our lives easier and I'm doing my best for this idea to come true.   Automatization of processes to help people leave all that boring uncreative work to the computers is something I enjoy a lot. Skilled in creating interesting and interactive websites. Dedicated to superior customer service at all levels from the first meeting with a client to the website maintenance after launch. Detail-oriented and knowledgeable in various programming languages. The most comfortable for me is Python in the Unix ecosystem. Mainly focused on web-related solutions, finding the backend the most enjoyable. Recently started playing around with Raspberry PIs, K8S, docker, and network-related applications in general. Occasionally playing with my homemade clone of Prusa i3 MK2 3D printer or Arduinos. Fascinated in photography, 3D printing, and traveling. Chose IT in the hope not to be tightened by a fixed 9-5 schedule in an office. In the long-term seeking for the freedom to work from wherever I want, whenever I want.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Prague",
-      "countryCode": "CZ",
-      "region": "Czech Republic"
-    },
-    "profiles": [
+   "meta":{
+      "theme":"elegant"
+   },
+   "basics":{
+      "name":"Tomáš Dostál",
+      "label":"Software developer",
+      "picture":"img.webp",
+      "email":"t@dostál.eu",
+      "phone":"+420 605 066 470",
+      "website":"https://dostál.eu",
+      "summary":"Proficient and creative computer science student from the Czech Republic, yearning to do something great and meet amazing people. Currently in studying at [FIT CTU, Prague](https://fit.cvut.cz/cs) in pursuit of getting a bachelor's degree in Informatics. I believe that computers should make our lives easier and I'm doing my best for this idea to come true.  Automatization of processes to help people leave all that boring uncreative work to the computers is something I enjoy a lot. Skilled in creating interesting and interactive websites. Dedicated to superior customer service at all levels from the first meeting with a client to the website maintenance after launch. Detail-oriented and knowledgeable in various programming languages. The most comfortable for me is Python in the Unix ecosystem. Mainly focused on web-related solutions, finding the backend the most enjoyable. Recently started playing around with Raspberry PIs, K8S, docker, and network-related applications in general. Occasionally playing with my homemade clone of Prusa i3 MK2 3D printer or Arduinos. Fascinated in photography, 3D printing, and traveling. Chose IT in the hope not to be tightened by a fixed 9-5 schedule in an office. In the long-term seeking for the freedom to work from wherever I want, whenever I want.",
+      "location":{
+         "address":"",
+         "postalCode":"",
+         "city":"Prague/Brno",
+         "countryCode":"CZ",
+         "region":"Czech Republic"
+      },
+      "profiles":[
+         {
+            "network":"Github",
+            "username":"tomas-dostal",
+            "url":"https://github.com/tomas-dostal"
+         },
+         {
+            "network":"LinkedIn",
+            "username":"tomas-dostal",
+            "url":"https://www.linkedin.com/in/tomas-dostal/"
+         }
+      ]
+   },
+   "work":[
       {
-        "network": "Github",
-        "username": "tomas-dostal",
-        "url": "https://github.com/tomas-dostal"
+         "name":"Paysure Technology s.r.o / Paysure Solutions Ltd",
+         "position":"Software developer",
+         "url":"https://paysure.solutions/",
+         "startDate":"2021-09-01",
+         "endDate":"2022-04-11",
+         "summary":"Paysure is a fin-tech startup developing a b2b payment solution with an innovative way how to limit card payments by comprehensive criteria. I found the greatest value of the copany in the people and company values, like freedom and no-blame. I worked here on iplementing new features and resolving bugs.",
+         "highlights":[
+            "Strengthened my experiences with Python on BE on real project",
+            "Extended my knowledge about Docker, as it I used it on the daily bases",
+            "Learned basics of AWS infrastructure",
+            "Enjoyed working with these cool people",
+            "Gained an option to travel while working, as the position was full-remote (although the voluntary option to meet colleagues in cowork was always available)"
+         ]
       },
       {
-        "network": "LinkedIn",
-        "username": "tomas-dostal",
-        "url": "https://www.linkedin.com/in/tomas-dostal/"
+         "name":"Self-employed",
+         "position":"Web developer",
+         "url":"https://portfolio.dostál.eu/",
+         "startDate":"2018-01-01",
+         "summary":"Custom website development. From an analysis of customer needs through development itself to deploying and maintaining sites. I am working with clients to solve problems or find solutions to requests, doing my best to stay within budget while still being able to provide clients with exactly what they want. Mostly working with clients having meaningful ideas. The reason for that is I want to leave behind something pleasant to the end-user, but also beneficial. ",
+         "highlights":[
+            "Broad experience in building WordPress CMS sites",
+            "Customize themes to meet clients’ requirements",
+            "Providing technical support to clients",
+            "Design new features for existing websites",
+            "SEO and analytics",
+            "Hosting services"
+         ]
+      },
+      {
+         "name":"Project DZO",
+         "position":"Identification and improvement of QR code detection",
+         "url":"https://www.pdzo.cz/",
+         "startDate":"2019-01-01",
+         "endDate":"2021-01-01",
+         "summary":"[Project DZO](https://www.pdzo.cz/) aims to examine the proposed methodology for decontamination of a large number of injured in pre-hospital care and to identify possible shortcomings. My job was to examine possibilities of identification of rescuers with 1-D or 2-D codes for further processing of the captured records."
+      },
+      {
+         "name":"DCC Ctyrlistek Opava",
+         "position":"Software developer",
+         "url":"https://www.dcctyrlistek.cz",
+         "startDate":"2018-01-01",
+         "endDate":"2018-03-01",
+         "summary":"My work here was to help the company switching to a new accounting system, so I developed an automatic conversion tool for them."
+      },
+      {
+         "name":"MedicalApp",
+         "startDate":"2016-01-01",
+         "endDate":"2017-01-01",
+         "summary":"Since I started exploring the field of IT, I made a lot of my projects. Probably the most significant/interesting one was medical data viewer „MedicalApp“, which aim was to simplify the process of getting and displaying data from medical facilities. ",
+         "highlights":[
+            "4th place in category IT in the national round of Secondary Scholar Activity",
+            "Combining a wide range of languages (C#, Python, C++) and modern technologies (Unity3D, VTK, Google Drive, GTK3)"
+         ]
       }
-    ]
-  },
-  "work": [
-    {
-      "organization": "Paysure Technology s.r.o / Paysure Solutions Ltd",
-      "position": "Software developer",
-      "website": "https://paysure.solutions/",
-      "startDate": "2021-09-01",
-      "summary": "A fin-tech startup (one of few which avoid Haskell), which aims to make insurances and many other 'old-school businesses even easier. Paysure brings an innovative way how to limit payments by card by comprehensive criteria. All of that is done in language I prefer - Python",
-      "highlights": [
-        "Strengthened my experiences with Python on the backend",
-        "Deep dive into Docker",
-        "Team of cool 'travel' people I enjoy working with",
-        "Finally a place where I can work full-remote. And go to the office when I want ",
-        "Learned a bit o AWS here"
-      ]
-    },
-    {
-      "organization": "Self-employed",
-      "position": "Web developer",
-      "website": "https://portfolio.dostál.eu/",
-      "startDate": "2018-01-01",
-      "summary": "Custom website development. From an analysis of customer needs through development itself to deploying and maintaining sites. I am working with clients to solve problems or find solutions to requests, doing my best to stay within budget while still being able to provide clients with exactly what they want. Mostly working with clients having meaningful ideas. The reason for that is I want to leave behind something pleasant to the end-user, but also beneficial. ",
-      "highlights": [
-        "Broad experience in building WordPress CMS sites",
-        "Customize themes to meet clients’ requirements",
-        "Providing technical support to clients",
-        "Design new features for existing websites",
-        "SEO and analytics",
-        "Hosting services"
-      ]
-    },
-    {
-      "organization": "Project DZO",
-      "position": "Identification and improvement of QR code detection",
-      "website": "https://www.pdzo.cz/",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "summary": "[Project DZO](https://www.pdzo.cz/) aims to examine the proposed methodology for decontamination of a large number of injured in pre-hospital care and to identify possible shortcomings. My job was to examine possibilities of identification of rescuers with 1-D or 2-D codes for further processing of the captured records."
-    },
-    {
-      "organization": "DCC Ctyrlistek Opava",
-      "position": "External software engineer and developer",
-      "website": "https://www.dcctyrlistek.cz",
-      "startDate": "2018-01-01",
-      "endDate": "2018-03-01",
-      "summary": "Development of an automatic tool for bulk-transferring data to another information system."
-    },
-    {
-      "organization": "",
-      "position": "Software developer",
-      "startDate": "2016-01-01",
-      "endDate": "2018-01-01",
-      "summary": "Development of a medical data viewer „MedicalApp“, which aim was to simplify the process of getting and displaying data from medical facilities.",
-      "highlights": [
-        "4th place in category IT in the national round of Secondary Scholar Activity",
-        "Combining a wide range of languages (C#, Python, C++) and technologies (Unity3D, VTK, Google Drive, GTK3)"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Potrebujurousku.cz",
-      "position": "Engineering Project Manager & Software developer",
-      "website": "https://www.potrebujurousku.cz/",
-      "startDate": "2020-08-09",
-      "endDate": "2020-12-11",
-      "summary": "Founder of a COVID-19 regulations monitoring site [potrebujurousku.cz](https://www.potrebujurousku.cz/) ([github](https://github.com/tomas-dostal/potrebujurousku)) (ancestor of the official solution [covid.gov.cz](https://covid.gov.cz)) in the Czech Republic. ",
-      "highlights": [
-        "Several thousands of visitors",
-        "Project was nominated for Gratias Tibi price",
-        "Articles about the project in weekly papers '[Respekt](https://www.respekt.cz/agenda/nekdo-to-delat-musi-rika-spoluzakladatelka-webu-potrebuju-rousku-cz)' and '[DenikN](https://denikn.cz/495661/studenti-spustili-web-s-opatrenimi-proti-viru-driv-nez-vlada-pro-lidi-bylo-ubijejici-to-sledovat-vysvetluji)'",
-        "Replaced by an official government solution in about three months since published, so the idea of a COVID-19 regulations site was not that bad",
-        "Written in Django framework, Python",
-        "Scrapping content from the Ministry of Health using  BS4"
-      ]
-    },
-    {
-      "organization": "Domov sv. Josefa",
-      "position": "Web analytics consultant & developer",
-      "website": "https://www.domovsvatehojosefa.cz/",
-      "startDate": "2019-01-01",
-      "summary": "Redesign of the website [domovenka.cz](domovenka.cz) and general support in the field of web analytics",
-      "highlights": [
-        "Since I started supporting [domovenka.cz](domovenka.cz), the site raised more than 1.5 million CZK from donations"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "FIT CTU, Prague",
-      "area": "Informatics",
-      "studyType": "Bachelor",
-      "startDate": "2019-06-26",
-      "courses": [
-        "Computer networks",
-        "Computer security",
-        "Databases",
-        "GIT",
-        "Programming in Python",
-        "Programming in Java",
-        "Programming in C++",
-        "Arduino",
-        "Digital photography"
-      ]
-    },
-    {
-      "institution": "Oracle Academy certificate",
-      "area": "Database Design and Programming with SQL",
-      "studyType": "Certification",
-      "startDate": "2021-03-01",
-      "endDate": "2021-03-02",
-      "courses": [
-      ]
-    }
-  ],
-  "awards": [],
-  "skills": [
-    {
-      "name": "Programming languages",
-      "level": "",
-      "keywords": [
-        "Python",
-        "Java (basics)"
-      ]
-    },
-    {
-      "name": "Web technologies",
-      "level": "",
-      "keywords": [
-        "Django",
-        "REST",
-        "HTML",
-        "CSS"
-      ]
-    },
-    {
-      "name": "Database technologies",
-      "level": "",
-      "keywords": [
-        "Oracle SQL"
-      ]
-    },
-    {
-      "name": "Server technologies",
-      "level": "",
-      "keywords": [
-        "Docker",
-        "Apache2"
-      ]
-    },
-    {
-      "name": "Tools/languages helping my day to be easier",
-      "level": "",
-      "keywords": [
-        "Git",
-        "Bash",
-        "Markdown",
-        "ssh"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "B2"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Photography",
-      "keywords": [
-        "nature photographer",
-        "macro",
-        "long-exposure",
-        "startrails"
-      ]
-    },
-    {
-      "name": "Travelling"
-    },
-    {
-      "name": "3D printing",
-      "keywords": [
-        "Prusa i3 MK2",
-        "homemade"
-      ]
-    }
-  ],
-  "references": []
+   ],
+   "volunteer":[
+      {
+         "organization":"Potrebujurousku.cz",
+         "position":"Engineering Project Manager & Software developer",
+         "website":"https://www.potrebujurousku.cz/",
+         "startDate":"2020-08-09",
+         "endDate":"2020-12-11",
+         "summary":"Founder of a COVID-19 regulations monitoring site [potrebujurousku.cz](https://www.potrebujurousku.cz/) ([github](https://github.com/tomas-dostal/potrebujurousku)) (ancestor of the official solution [covid.gov.cz](https://covid.gov.cz)) in the Czech Republic. ",
+         "highlights":[
+            "Several thousands of visitors",
+            "Project was nominated for Gratias Tibi price",
+            "Articles about the project in weekly papers '[Respekt](https://www.respekt.cz/agenda/nekdo-to-delat-musi-rika-spoluzakladatelka-webu-potrebuju-rousku-cz)' and '[DenikN](https://denikn.cz/495661/studenti-spustili-web-s-opatrenimi-proti-viru-driv-nez-vlada-pro-lidi-bylo-ubijejici-to-sledovat-vysvetluji)'",
+            "Replaced by an official government solution in about three months since published, so the idea of a COVID-19 regulations site was not that bad",
+            "Written in Django framework, Python",
+            "Scrapping content from the Ministry of Health using  BS4"
+         ]
+      },
+      {
+         "organization":"Domov sv. Josefa",
+         "position":"Web analytics consultant & developer",
+         "website":"https://www.domovsvatehojosefa.cz/",
+         "startDate":"2019-01-01",
+         "endDate":"2021-12-11",
+         "summary":"Redesign of the website [domovenka.cz](domovenka.cz) and general support in the field of web analytics",
+         "highlights":[
+            "Since I started supporting [domovenka.cz](domovenka.cz), the site raised more than 1.5 million CZK from donations"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"FIT CTU, Prague",
+         "area":"Informatics",
+         "studyType":"Bachelor",
+         "startDate":"2019-06-26",
+         "courses":[
+            "Computer networks",
+            "Computer security",
+            "Databases",
+            "GIT",
+            "Programming in Python",
+            "Programming in Java",
+            "Programming in C++",
+            "Arduino",
+            "Digital photography"
+         ]
+      }
+   ],
+   "certificates":[
+      {
+         "name":"Database Design and Programming with SQL",
+         "date":"2021-03-01",
+         "issuer":"Oracle",
+         "url":"https://academy.oracle.com/en/oa-web-overview.html"
+      }
+   ],
+   "awards":[
+
+   ],
+   "skills":[
+      {
+         "name":"Programming languages",
+         "level":"",
+         "keywords":[
+            "Python",
+            "Java (basics)",
+            "C++ (basics)"
+         ]
+      },
+      {
+         "name":"Web technologies",
+         "level":"",
+         "keywords":[
+            "Django",
+            "Flask",
+            "REST",
+            "HTML",
+            "CSS"
+         ]
+      },
+      {
+         "name":"Database technologies",
+         "level":"",
+         "keywords":[
+            "Oracle SQL",
+            "postgres"
+         ]
+      },
+      {
+         "name":"Server technologies",
+         "level":"",
+         "keywords":[
+            "Docker",
+            "k8s"
+         ]
+      },
+      {
+         "name":"Tools/languages helping my day to be easier",
+         "level":"",
+         "keywords":[
+            "Git",
+            "Bash",
+            "Markdown",
+            "ssh",
+            "Pycharm"
+         ]
+      }
+   ],
+   "languages":[
+      {
+         "language":"English",
+         "fluency":"B2"
+      }
+   ],
+   "interests":[
+      {
+         "name":"Photography",
+         "keywords":[
+            "nature photographer",
+            "macro",
+            "long-exposure",
+            "startrails"
+         ]
+      },
+      {
+         "name":"Travelling"
+      },
+      {
+         "name":"3D printing",
+         "keywords":[
+            "Prusa i3 MK2",
+            "homemade"
+         ]
+      }
+   ],
+   "references":[
+
+   ]
 }
