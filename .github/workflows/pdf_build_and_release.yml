@@ -26,11 +26,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate resume html & pdf
-        run:  docker-compose up -d; docker cp build-stage-pdf:/app/index.html /index.html; docker cp build-stage-pdf:/app/cv.pdf /cv.pdf
-      - name: Upload html
-        uses: actions/upload-artifact@v2
-        with:
-          path: /index.html
+        run:  docker build -t resume . ; docker cp $(sudo docker create --rm resume:latest):/app/static/cv.pdf ./cv.pdf
       - name: Upload pdf
         uses: actions/upload-artifact@v2
         with:
