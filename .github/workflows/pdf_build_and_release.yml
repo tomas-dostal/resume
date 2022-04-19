@@ -24,11 +24,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       - name: Generate resume html & pdf
-        run:  docker build -t resume . ; mkdir -p pdf ; docker cp $(sudo docker create --rm resume:latest):/app/static/cv.pdf pdf/cv.pdf
+        run:  docker build -t resume . ;  docker cp $(sudo docker create --rm resume:latest):/app/static/cv.pdf cv.pdf
       - name: Upload pdf
         uses: actions/upload-artifact@v2
         with:
-          path: pdf/cv.pdf
+          path: cv.pdf
       - name: Create Release
         if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags/')
         id: create_release
