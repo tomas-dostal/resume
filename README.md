@@ -11,7 +11,8 @@ docker build -t resume .
 
 Execute nginx with your resume on port 8080
 ```sh
-docker run resume:latest -d # run as a daemon
+docker run -d -p 8080:8080 resume:latest  
+# run as a daemon, forward container's port 8080 to host's 8080 
 ```
 
 Accessible paths:
