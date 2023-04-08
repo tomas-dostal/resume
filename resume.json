@@ -40,8 +40,9 @@
          "highlights": [
             "Unified video players in our internal content management system, offering multiple codecs for seamless playback.",
             "Significantly improved the alert notification system for live streamed content, reducing false positive alerts.",
-            "Streamlined code for better readability and structure.",
+            "Streamlined code for better readability.",
             "Developed an automatic subtitle pairing tool, eliminating the need for manual pairing by content operators.",
+            "Organized a hotdog party in the office.",
             "Optimized data processing in Airflow through several tickets.",
             "Actively working to enhance usability of internal systems."
          ]
