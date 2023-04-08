@@ -13,7 +13,7 @@
       "location":{
          "address":"",
          "postalCode":"",
-         "city":"Prague/Brno",
+         "city":"Prague",
          "countryCode":"CZ",
          "region":"Czech Republic"
       },
@@ -32,20 +32,34 @@
    },
    "work":[
       {
+         "name":"Showmax s.r.o./ Carpiness s.r.o.",
+         "position":"Software Engineer",
+         "url":"https://www.showmax.com/",
+         "startDate":"2022-09-01",
+         "summary":"Showmax is a leading streaming service that offers a vast selection of popular content to viewers across the African continent. As part of the media encoding team, my primary focus is on enhancing the video and audio compression pipelines to ensure the highest quality viewing experience for our users. Additionally, I am dedicated to improving the usability of our internal systems, particularly those related to encoding, to streamline workflows and optimize efficiency.",
+         "highlights":[
+		"Unified video players in our internal content management system, offering multiple codecs for seamless playback.",
+		"Significantly improved the alert notification system for live streamed content, reducing false positive alerts.",
+		"Streamlined code for better readability and structure.",
+		"Developed an automatic subtitle pairing tool, eliminating the need for manual pairing by content operators.",
+		"Optimized data processing in Airflow through several tickets.",
+		"Actively working to enhance usability of internal systems."
+         ]
+      },
+      {
          "name":"Paysure Technology s.r.o / Paysure Solutions Ltd",
-         "position":"Software developer",
+         "position":"Software Developer",
          "url":"https://paysure.solutions/",
          "startDate":"2021-09-01",
          "endDate":"2022-04-11",
-         "summary":"Paysure is a fin-tech startup developing a b2b payment solution with an innovative way how to limit card payments by comprehensive criteria. I found the greatest value of the company in the people and company values, like freedom and no blame. I worked here on implementing new features and resolving bugs.",
+         "summary":"Paysure is a fintech startup that is developing a B2B payment solution with an innovative way of limiting card payments by comprehensive criteria. During my time there, I had the opportunity to work as a backend developer and strengthen my experience with Python. I wrote numerous tests to ensure the quality of the product and learned to use collaborative tools such as ClickUp, Confluence, Bitbucket, and Slack. I also extended my knowledge of Docker, as I used it on a daily basis, and gained a basic understanding of AWS infrastructure. In addition, I had the opportunity to study at the university while working and gained a lot of knowledge and skills that I could apply to my work at Paysure. Working with the team at Paysure was a great experience, and I appreciated the environment that allowed me to learn and grow as a developer. ",
          "highlights":[
-            "Strengthened my experiences with Python on BE in agile development",
-            "Learned how to use cooperate tools like ClickUp, confluence, bitbucket and slack",
-            "Extended my knowledge about Docker, as I used it on the daily bases",
-            "Learned basics of AWS infrastructure",
-            "Enjoyed working with these cool people",
-            "Gained an option to travel while working, as the position was full-remote (although the voluntary option to meet colleagues in a shared office was always available)",
-            "Lost the fear of asking for help whenever needed, to move forward"
+		"Improved logging capabilities resulting in enabling more comprehensive analysis and easier bug fixing." ,
+		"Introduced satic type checking tool, to the codebase, increasing code reliability and maintainability." ,
+		"On BE implemented key features such as translations and universal links, and conducted rigorous testing to ensure high quality, resulting in the successful passing of strict Apple quality checks. ",
+		"Developed a solution for OTP, enhancing the security and usability of the system.",
+		"Developed and executed comprehensive test suites to ensure seamless integration with client's APIs",
+            "Lost the fear of asking questions. "
          ]
       },
       {
@@ -53,12 +67,11 @@
          "position":"Web developer",
          "url":"https://portfolio.dostál.eu/",
          "startDate":"2018-01-01",
-         "summary":"Custom website development. From an analysis of customer needs through development itself to deploying and maintaining sites. I am working with clients to solve problems or find solutions to requests, doing my best to stay within budget while still being able to provide clients with exactly what they want. Mostly working with clients having meaningful ideas. The reason for that is I want to leave behind something pleasant to the end-user, but also beneficial. Even though it is simple, since it is a 'clicking monkey' type of job, I'm trying to limit this as I don't see much space fur further grow here.",
+         "summary":"As a website developer, I work closely with clients to create custom sites that meet their specific needs, from initial analysis to deployment and ongoing maintenance. I specialize in working with clients who have meaningful ideas, ensuring that the end result is not only visually pleasing but also beneficial to users. I constantly seek out opportunities for growth and innovation to deliver the best possible outcomes for my clients. I offer comprehensive support to my clients, taking care of all aspects including domains, hosting, updates, maintenance, and modifications. This ensures that clients can focus on their core business activities without any worry about their website.",
          "highlights":[
+	    "Long-term client satisfaction and successful collaborations.",
+            "End-to-end website solutions, from domain and hosting setup to ongoing maintenance and support, so clients can focus on their business.",
             "Broad experience in building WordPress CMS sites",
-            "Customize themes to meet clients’ requirements",
-            "Providing technical support to clients",
-            "Design new features for existing websites",
             "SEO and analytics",
             "Hosting services"
          ]
@@ -69,7 +82,7 @@
          "url":"https://www.dcctyrlistek.cz",
          "startDate":"2018-01-01",
          "endDate":"2018-03-01",
-         "summary":"My work here was to help the company switching to a new accounting system, so I developed an automatic conversion tool for them."
+         "summary":"I assisted here with the transition to a new accounting system by developing an automated conversion tool. This streamlined the migration of data from the old to the new system, saving time and resources, while ensuring accuracy and preventing errors or discrepancies."
       },
       {
          "name":"Project DZO",
@@ -97,7 +110,7 @@
          "website":"https://www.potrebujurousku.cz/",
          "startDate":"2020-08-09",
          "endDate":"2020-12-11",
-         "summary":"Co-founder of a COVID-19 regulations monitoring site [potrebujurousku.cz](https://www.potrebujurousku.cz/) ([github](https://github.com/tomas-dostal/potrebujurousku)) (ancestor of the official solution [covid.gov.cz](https://covid.gov.cz)) in the Czech Republic. ",
+         "summary":"Co-founder of a COVID-19 regulations monitoring site [potrebujurousku.cz](https://www.potrebujurousku.cz/) ([github](https://github.com/tomas-dostal/potrebujurousku)) (ancestor of the official solution [covid.gov.cz](https://covid.gov.cz)) in the Czech Republic. Back in the COVID days. ",
          "highlights":[
             "Articles about the project in weekly papers '[Respekt](https://www.respekt.cz/agenda/nekdo-to-delat-musi-rika-spoluzakladatelka-webu-potrebuju-rousku-cz)' and '[DenikN](https://denikn.cz/495661/studenti-spustili-web-s-opatrenimi-proti-viru-driv-nez-vlada-pro-lidi-bylo-ubijejici-to-sledovat-vysvetluji)'",
             "Replaced by an official government solution in about three months since published, so the idea of a COVID-19 regulations site was not that bad",
@@ -107,9 +120,9 @@
       },
       {
          "organization":"Domov sv. Josefa",
-         "position":"Web analytics consultant & developer",
+         "position":"Web developer",
          "website":"https://www.domovsvatehojosefa.cz/",
-         "startDate":"2019-01-01",
+         "startDate":"2020-01-01",
          "endDate":"2021-12-11",
          "summary":"Redesign of the website [domovenka.cz](domovenka.cz) and general support in the field of web analytics",
          "highlights":[
@@ -174,7 +187,7 @@
          "level":"",
          "keywords":[
             "Oracle SQL",
-            "psql"
+            "Postgres"
          ]
       },
       {
