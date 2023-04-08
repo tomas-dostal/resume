@@ -18,8 +18,8 @@ RUN sed -i 's#+420 605 066 470#<a class="link-disguise" href="tel:+420605066470"
 
 ###### Create a PDF ######
 
-FROM  surnet/alpine-wkhtmltopdf:3.15.0-0.12.6-small as build-stage-pdf
-
+FROM  surnet/alpine-wkhtmltopdf:3.17.0-0.12.6-small as build-stage-pdf
+#RUN apk add --no-cache fontconfig && fc-cache -f
 WORKDIR /app
 COPY img.png .
 
