@@ -9,12 +9,11 @@
       "email": "me@tdostal.eu",
       "phone": "+420 605 066 470",
       "website": "https://tdostal.eu",
-      "summary": "Proficient and creative computer science student from the Czech Republic, yearning to do something great and meet amazing people. Currently studying at [FIT CTU, Prague](https://fit.cvut.cz/cs) in pursuit of getting a bachelor's degree in Informatics. I believe that computers should make our lives easier and I'm doing my best for this idea to come true. Automatization of processes to help people leave all that boring uncreative work to the computers is something I enjoy a lot. Skilled in creating interesting and interactive websites. Dedicated to superior customer service at all levels from the first meeting with a client to the website maintenance after launch. Detail-oriented and knowledgeable in various programming languages. The most comfortable for me is Python in the Linux ecosystem. Mainly focused on web-related solutions, finding the backend the most enjoyable. Recently started playing around with Raspberry PIs, K8S, docker, and network-related applications in general. Some of my free time goes to smart home and automatization which feels so good! Occasionally playing with my homemade clone of Prusa i3 MK2 3D printer or Arduinos. Fascinated in travelling, and photography. Chose IT in the hope not to be tightened by a fixed 9-5 schedule in an office so I can explore the beauties this wonderful planet offers, thus I'm seeking the freedom to work from wherever I want, whenever I want.",
+      "summary": "I'm a creative and curious computer science fan based in the Czech Republic. Looking forward to doing something great and meeting amazing people. I believe that computers should make our lives easier and I'm doing my best for this idea to come true. Automatisation is something I find very fascinating and satisfying. I'm a big fan of smart home technologies, and I enjoy creating and building new things with both new and already-known technologies. In the past few years, I have been delivering backend solutions mostly written in Python in collaborative environments surrounded by awesome people. I believe that every problem gives us a chance to find a better way to do things.",
       "location": {
          "address": "",
          "postalCode": "",
          "city": "Prague",
-         "countryCode": "CZ",
          "region": "Czech Republic"
       },
       "profiles": [
@@ -36,15 +35,15 @@
          "position": "Software Engineer",
          "url": "https://www.showmax.com/",
          "startDate": "2022-09-01",
-         "summary": "Showmax is a leading streaming service that offers a vast selection of popular content to viewers across the African continent. As part of the media encoding team, my primary focus is on enhancing the video and audio compression pipelines to ensure the highest quality viewing experience for our users. Additionally, I am dedicated to improving the usability of our internal systems, particularly those related to encoding, to streamline workflows and optimize efficiency.",
+         "summary": "I work in the media encoding team at Showmax, one of the largest VOD providers in the African continent. My role within the company is focused heavily on improving the user experience through enhancing the encoding and delivery process of media files. Apart from that, my role insists on making our internal systems better for everyone to use. Thanks to the size of the company I could get in touch with a wide range of technologies and there was always something I could choose from. I was heavily oriented in working with RESTful APIs and technologies like Python, Docker, git, pytest, but also SQL and EKL. Thanks to one of our company values - responsibility - we used the DevOps approach so we would be able to fully own and stand behind our changes and features. Last but not least, my team held on-call and as a team, we were addressing all the issues our customers encountered especially during the evening peak hours.",
          "highlights": [
-            "Unified video players in our internal content management system, offering multiple codecs for seamless playback.",
-            "Significantly improved the alert notification system for live streamed content, reducing false positive alerts.",
-            "Streamlined code for better readability.",
+            "One player rules them all - Unified video players in our internal content management system for better user experience and easier maintenance.",
+            "Improved the alert notification system for live content, reducing false positive alerts.",
             "Developed an automatic subtitle pairing tool, eliminating the need for manual pairing by content operators.",
-            "Organized a hotdog party in the office.",
-            "Optimized data processing in Airflow through several tickets.",
-            "Actively working to enhance usability of internal systems."
+            "Refactored code for better readability.",
+            "For better user-experience, actively tested our applications and raised tickets for issues encountered.",
+            "Optimised data processing in Airflow thanks to more efficient implementation.",
+            "Actively working to increase usability of internal systems."
          ]
       },
       {
@@ -53,22 +52,22 @@
          "url": "https://paysure.solutions/",
          "startDate": "2021-09-01",
          "endDate": "2022-04-11",
-         "summary": "Paysure is a fintech startup that is developing a B2B payment solution with an innovative way of limiting card payments by comprehensive criteria. During my time there, I had the opportunity to work as a backend developer and strengthen my experience with Python. I wrote numerous tests to ensure the quality of the product and learned to use collaborative tools such as ClickUp, Confluence, Bitbucket, and Slack. I also extended my knowledge of Docker, as I used it on a daily basis, and gained a basic understanding of AWS infrastructure. In addition, I had the opportunity to study at the university while working and gained a lot of knowledge and skills that I could apply to my work at Paysure. Working with the team at Paysure was a great experience, and I appreciated the environment that allowed me to learn and grow as a developer. ",
+         "summary": "Contributed as a backend developer at Paysure, a dynamic fintech startup revolutionizing B2B payments with innovative criteria-based payment limits. Strengthened my Python skills here, and wrote tests on a daily basis. My work in Paysure was mostly about extending the existing codebase and writing tests to ensure product stability and extendibility.  Utilized technologies like Python, Django, Flask, Docker, and Git as well as collaborative tools like ClickUp, Confluence, Bitbucket, and Slack. ",
          "highlights": [
-            "Improved logging capabilities resulting in enabling more comprehensive analysis and easier bug fixing.",
+            "Improved logging capabilities allowing us easier bug fixing and better analysis.",
             "Introduced satic type checking tool, to the codebase, increasing code reliability and maintainability.",
-            "On BE implemented key features such as translations and universal links, and conducted rigorous testing to ensure high quality, resulting in the successful passing of strict Apple quality checks. ",
+            "On BE side implemented key features such as translations and universal links, and conducted rigorous testing to ensure high quality,which ended up by passing of strict Apple quality checks. ",
             "Developed a solution for OTP, enhancing the security and usability of the system.",
-            "Developed and executed comprehensive test suites to ensure seamless integration with client's APIs",
+            "Developed and executed comprehensive test suites to ensure proper integration with client's APIs",
             "Lost the fear of asking questions. "
          ]
       },
       {
-         "name": "Self employed",
+         "name": "Freelancer",
          "position": "Web developer",
          "url": "https://portfolio.dostál.eu/",
          "startDate": "2018-01-01",
-         "summary": "As a website developer, I work closely with clients to create custom sites that meet their specific needs, from initial analysis to deployment and ongoing maintenance. I specialize in working with clients who have meaningful ideas, ensuring that the end result is not only visually pleasing but also beneficial to users. I constantly seek out opportunities for growth and innovation to deliver the best possible outcomes for my clients. I offer comprehensive support to my clients, taking care of all aspects including domains, hosting, updates, maintenance, and modifications. This ensures that clients can focus on their core business activities without any worry about their website.",
+         "summary": "As a website developer, I work closely with clients to create custom sites that meet their specific needs, from initial analysis to deployment and ongoing maintenance. I specialize in working with clients who have meaningful ideas, ensuring that the end result is not only visually pleasing but also beneficial to users. I offer support to my clients, taking care of all aspects including domains, hosting, updates, maintenance, and modifications. This ensures that clients can focus on their own business activities without any worry about their website.",
          "highlights": [
             "Long-term client satisfaction and successful collaborations.",
             "End-to-end website solutions, from domain and hosting setup to ongoing maintenance and support, so clients can focus on their business.",
@@ -83,7 +82,7 @@
          "url": "https://www.dcctyrlistek.cz",
          "startDate": "2018-01-01",
          "endDate": "2018-03-01",
-         "summary": "I assisted here with the transition to a new accounting system by developing an automated conversion tool. This streamlined the migration of data from the old to the new system, saving time and resources, while ensuring accuracy and preventing errors or discrepancies."
+         "summary": "I assisted here with the transition to a new accounting system by developing an automated conversion tool. This simplified the migration of data from the old to the new system, saving a lot time and resources."
       },
       {
          "name": "Project DZO",
@@ -142,7 +141,9 @@
             "Computer networks",
             "Computer security",
             "Databases",
+            "Big data",
             "GIT",
+            "Operating systems",
             "Programming in Python",
             "Programming in Java",
             "Programming in C++",
@@ -152,6 +153,12 @@
       }
    ],
    "certificates": [
+      {
+         "name": "Unified Certified course",
+         "date": "2023-07-01",
+         "issuer": "Unified Streaming",
+         "url": "https://www.unified-streaming.com/academy"
+      },
       {
          "name": "Database Design and Programming with SQL",
          "date": "2021-03-01",
@@ -163,49 +170,40 @@
    ],
    "skills": [
       {
-         "name": "Programming languages",
-         "level": "",
+         "category": "Development",
          "keywords": [
             "Python",
+            "C++",
             "Java (basics)",
-            "C++ (basics)"
-         ]
-      },
-      {
-         "name": "Web technologies",
-         "level": "",
-         "keywords": [
+            "Go (basics)",
             "Django",
             "Flask",
-            "REST",
-            "HTML",
-            "CSS"
+            "FastAPI"
          ]
       },
       {
-         "name": "Database technologies",
-         "level": "",
+         "category": "Deployment",
+         "keywords": [
+            "Docker",
+            "CI/CD pipelines",
+            "Kubernetes (basics)",
+            "AWS (basics)"
+         ]
+      },
+      {
+         "category": "Data-oriented",
          "keywords": [
             "Oracle SQL",
-            "Postgres"
+            "Postgres",
+            "ELK Stack"
          ]
       },
       {
-         "name": "Server technologies",
-         "level": "",
+         "category": "Other",
          "keywords": [
-            "Docker"
-         ]
-      },
-      {
-         "name": "Tools/languages helping my day to be easier",
-         "level": "",
-         "keywords": [
-            "Git",
-            "Bash",
-            "Markdown",
-            "ssh",
-            "Pycharm"
+            "Familiar with Linux Ecosystem",
+            "Unified Streaming Platform",
+            "Postman"
          ]
       }
    ],
@@ -213,27 +211,6 @@
       {
          "language": "English",
          "fluency": "B2"
-      }
-   ],
-   "interests": [
-      {
-         "name": "Photography",
-         "keywords": [
-            "nature photographer",
-            "macro",
-            "long-exposure",
-            "startrails"
-         ]
-      },
-      {
-         "name": "Travelling"
-      },
-      {
-         "name": "3D printing",
-         "keywords": [
-            "Prusa i3 MK2",
-            "homemade"
-         ]
       }
    ],
    "references": [
