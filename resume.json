@@ -35,15 +35,16 @@
          "position": "Software Engineer",
          "url": "https://www.showmax.com/",
          "startDate": "2022-09-01",
-         "summary": "I work in the media encoding team at Showmax, one of the largest VOD providers in the African continent. My role within the company is focused heavily on improving the user experience through enhancing the encoding and delivery process of media files. Apart from that, my role insists on making our internal systems better for everyone to use. Thanks to the size of the company I could get in touch with a wide range of technologies and there was always something I could choose from. I was heavily oriented in working with RESTful APIs and technologies like Python, Docker, git, pytest, but also SQL and EKL. Thanks to one of our company values - responsibility - we used the DevOps approach so we would be able to fully own and stand behind our changes and features. Last but not least, my team held on-call and as a team, we were addressing all the issues our customers encountered especially during the evening peak hours.",
+         "endDate": "2024-03-31",
+         "summary": "My role as a member of media encoding team in Showmax, one of the largest VOD providers in the African continent, was focused heavily on improving the user experience through enhancing the encoding and delivery process of media files. Apart from that, my role insists on making our internal systems better for everyone to use. Thanks to the size of the company I could get in touch with a wide range of technologies and there was always something I could choose from. I was heavily oriented in working with RESTful APIs and technologies like Python, Docker, git, pytest, but also SQL and EKL. Thanks to one of our company values - responsibility - we used the DevOps approach so we would be able to fully own and stand behind our changes and features. Last but not least, my team held on-call and as a team, we were addressing all the issues our customers encountered especially during the evening peak hours.",
          "highlights": [
-            "One player rules them all - Unified video players in our internal content management system for better user experience and easier maintenance.",
+            "Eliminated the need for manual pairing of subtitles by developing automated pairing tool.",
+            "Optimised data processing in Airflow thanks to more efficient implementation.",
             "Improved the alert notification system for live content, reducing false positive alerts.",
-            "Developed an automatic subtitle pairing tool, eliminating the need for manual pairing by content operators.",
+            "One player rules them all - Unified video players in our internal content management system for better user experience and easier maintenance.",
             "Refactored code for better readability.",
             "For better user-experience, actively tested our applications and raised tickets for issues encountered.",
-            "Optimised data processing in Airflow thanks to more efficient implementation.",
-            "Actively working to increase usability of internal systems."
+            "Actively worked to increase usability of internal systems."
          ]
       },
       {
@@ -137,6 +138,7 @@
          "area": "Informatics",
          "studyType": "Bachelor",
          "startDate": "2019-06-26",
+         "endDate": "2023-09-01",
          "courses": [
             "Computer networks",
             "Computer security",
@@ -154,6 +156,12 @@
    ],
    "certificates": [
       {
+         "title": "The Compostela Pilgrims Certificate",
+         "date": "2023-10-29",
+         "issuer": "Cathedral of Santiago de Compostela",
+         "url": "https://catedraldesantiago.es/"
+      },
+      {
          "name": "Unified Certified course",
          "date": "2023-07-01",
          "issuer": "Unified Streaming",
@@ -167,6 +175,12 @@
       }
    ],
    "awards": [
+      {
+         "title": "Culture Ambassador - customer comes first",
+         "date": "2023-02-20",
+         "awarder": "Adrian Huna, Showmax",
+         "summary": "For improving platform usability and enhancing overall navigation."
+      }
    ],
    "skills": [
       {
@@ -175,9 +189,7 @@
             "Python",
             "C++",
             "Java (basics)",
-            "Go (basics)",
             "Django",
-            "Flask",
             "FastAPI"
          ]
       },
