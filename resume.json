@@ -156,7 +156,7 @@
    ],
    "certificates": [
       {
-         "title": "The Compostela Pilgrims Certificate",
+         "name": "The Compostela Pilgrims Certificate",
          "date": "2023-10-29",
          "issuer": "Cathedral of Santiago de Compostela",
          "url": "https://catedraldesantiago.es/"
