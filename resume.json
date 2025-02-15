@@ -31,6 +31,18 @@
    },
    "work": [
       {
+         "name": "Rapid7 (contractor)",
+         "position": "Python Developer",
+         "url": "https://rapid7.com",
+         "startDate": "2024-09-16",
+         "endDate": "2025-03-31",
+         "summary": "Worked on extending coverage of the company's key product to discover cyber-security vulnerabilities throughout the client's network. In this role, my key responsibility was to develop and maintain scrapers (Python, asyncio, pandas, bs4, selenium/httpx) and to adjust fingerprinters or sanitizers.",
+         "highlights": [
+            "Proposed several improvements to increase efficiency in extension development",
+            "Contributed to knowledge-bases and helped to keep manuals up-to-date to ensure smooth onboarding of future employees"
+         ]
+      },
+      {
          "name": "Showmax s.r.o./ Carpiness s.r.o.",
          "position": "Software Engineer",
          "url": "https://www.showmax.com/",
